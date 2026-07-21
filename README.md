@@ -19,9 +19,3 @@ freecodeclasses.com!
 - [Profile](https://github.com/imatthewtanner "Mattthew Tanner")
 - [Email](mailto:imatthewtanner@icloud.com?subject=Hi "Hi!")
 - [Website](https://tannerpress.net "Welcome")
-
-## 🤝 Support
-
-Contributions, and feature requests are welcome!
-
-Give a ⭐️ if you like this project!
