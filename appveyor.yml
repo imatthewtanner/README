@@ -3,8 +3,16 @@ nuget:
   account_feed: true
   project_feed: true
 build:
+  publish_nuget: true
+  publish_nuget_symbols: true
+  include_nuget_references: true
+  publish_aspnet_core: true
+  publish_core_console: true
   verbosity: minimal
 artifacts:
 - path: '\'
   name: initial
-deploy: off
+deploy:
+- provider: GitHub
+  auth_token:
+    secure: X/FuZyKIcC5EH+YPdIvAXuyVyTuqCXHveRs37P8xQHVqh67DfOYA2BdytzdoVwX5
